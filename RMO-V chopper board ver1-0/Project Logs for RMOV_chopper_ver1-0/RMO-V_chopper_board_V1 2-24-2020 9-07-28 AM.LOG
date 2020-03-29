@@ -1,0 +1,17 @@
+Added Component: Designator=R69(RESC2914X05N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.yageo.com/documents/recent/PYu-RC_Group_51_RoHS_L_2.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0805FR-070RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "RESC2012X60N"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power rating"; Value = "0.125 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "0R00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier1"; Value = "Avnet abacus"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier part number"; Value = "RC0805FR-070RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "SMD"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=P_GND Pin=R69-1
+Added Pin To Net: NetName=GND Pin=R69-2

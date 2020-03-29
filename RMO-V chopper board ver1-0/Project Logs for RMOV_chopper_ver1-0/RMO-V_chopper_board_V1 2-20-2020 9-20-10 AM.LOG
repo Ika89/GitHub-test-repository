@@ -1,0 +1,28 @@
+Added Component: Designator=LF1(SOJ254P940X500-4M)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = "Line fitler"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.we-online.de/katalog/datasheet/744229.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DC resistance"; Value = "950 mOhm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Würth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "744229"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max DC Current"; Value = "400 mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max DC Voltage"; Value = "80 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOL254P920X530-4N"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier1"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier part number"; Value = "744-229"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "SMD"; VariantName = "[No Variations]"
+Added Component: Designator=LF2(SOJ254P940X500-4M)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = "Line fitler"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.we-online.de/katalog/datasheet/744229.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DC resistance"; Value = "950 mOhm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Würth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "744229"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max DC Current"; Value = "400 mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max DC Voltage"; Value = "80 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOL254P920X530-4N"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier1"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier part number"; Value = "744-229"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "SMD"; VariantName = "[No Variations]"

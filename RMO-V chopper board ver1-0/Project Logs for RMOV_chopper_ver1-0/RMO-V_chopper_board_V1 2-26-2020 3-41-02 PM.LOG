@@ -1,0 +1,34 @@
+Removed Pin From Net: NetName=NetD1_1 Pin=D1-1
+Removed Pin From Net: NetName=NetD1_1 Pin=D4-2
+Removed Pin From Net: NetName=NetD7_1 Pin=D7-1
+Removed Pin From Net: NetName=NetD7_1 Pin=D9-2
+Removed Pin From Net: NetName=NetD14_1 Pin=D14-1
+Removed Pin From Net: NetName=NetD14_1 Pin=D16-2
+Removed Pin From Net: NetName=NetD19_1 Pin=D19-1
+Removed Pin From Net: NetName=NetD20_1 Pin=D20-1
+Removed Pin From Net: NetName=NetD19_1 Pin=D21-2
+Removed Pin From Net: NetName=NetD20_1 Pin=D22-2
+Change Component Comment : Designator=R94 Old Comment=1k07 New Comment=1k07/0.1%
+Change Component Comment : Designator=R95 Old Comment=3k6 New Comment=3k6/0.1%
+Change Net Name : Old Net Name=NetD1_1 New Net Name=NetQ2_1
+Change Net Name : Old Net Name=NetD7_1 New Net Name=NetQ3_1
+Change Net Name : Old Net Name=NetD14_1 New Net Name=NetQ6_1
+Change Net Name : Old Net Name=NetD19_1 New Net Name=NetQ7_1
+Change Net Name : Old Net Name=NetD20_1 New Net Name=NetQ8_1
+Added Pin To Net: NetName=NetD1_1 Pin=D1-1
+Added Pin To Net: NetName=NetD1_1 Pin=D4-2
+Added Net: Name=NetD1_1
+Added Pin To Net: NetName=NetD7_1 Pin=D7-1
+Added Pin To Net: NetName=NetD7_1 Pin=D9-2
+Added Net: Name=NetD7_1
+Added Pin To Net: NetName=NetD14_1 Pin=D14-1
+Added Pin To Net: NetName=NetD14_1 Pin=D16-2
+Added Net: Name=NetD14_1
+Added Pin To Net: NetName=NetD19_1 Pin=D19-1
+Added Pin To Net: NetName=NetD19_1 Pin=D21-2
+Added Net: Name=NetD19_1
+Added Pin To Net: NetName=NetD20_1 Pin=D20-1
+Added Pin To Net: NetName=NetD20_1 Pin=D22-2
+Added Net: Name=NetD20_1
+Added Class: Name=01-Chopper-CD
+Added Room: Name=01-Chopper-CD

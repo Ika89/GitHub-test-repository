@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=NetC37_1 Pin=R39-U1
+Added Pin To Net: NetName=NetC36_1 Pin=R39-U2
+Change Net Name : Old Net Name=NetC36_1 New Net Name=Shunt-
+Change Net Name : Old Net Name=NetC37_1 New Net Name=Shunt+

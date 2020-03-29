@@ -1,0 +1,36 @@
+Added Component: Designator=UX1(DFN4)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Catalog Drawings"; Value = "7(W,C,X), 8W Series Bottom
+
+7W Series Side
+
+7W Series Top"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Crystals and Oscillators"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.ciiva.com/866/7w-866142.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current - Supply (Max)"; Value = "20mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dynamic Catalog"; Value = "7W Series"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Family"; Value = "Oscillators"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Frequency"; Value = "4MHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Frequency Stability"; Value = "±50ppm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Function"; Value = "Tri-State (Output Enable)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.056" (1.42mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "IQD Frequency Products"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "7W-32.000MBB-T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-10°C ~ 70°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Other Names"; Value = "887-1177-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output"; Value = "CMOS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "DFN720X520X140-4N"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape & Reel (TR)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "CFPS-72"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size / Dimension"; Value = "0.276" L x 0.197" W (7.00mm x 5.00mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Standard Package"; Value = "1,000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "449-LFSPXO018033BULK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Supply"; Value = "3.3V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3.3Vm Pin=UX1-1
+Added Pin To Net: NetName=D_GND Pin=UX1-2
+Added Pin To Net: NetName=MCLK Pin=UX1-3
+Added Pin To Net: NetName=3.3Vm Pin=UX1-4

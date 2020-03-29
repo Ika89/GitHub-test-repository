@@ -1,0 +1,74 @@
+Removed Pin From Net: NetName=+12V Pin=C5-1
+Removed Pin From Net: NetName=+12V Pin=C15-2
+Removed Pin From Net: NetName=+12V Pin=C23-1
+Removed Pin From Net: NetName=+12V Pin=C24-2
+Removed Pin From Net: NetName=-12V Pin=C25-1
+Removed Pin From Net: NetName=-12V Pin=C26-2
+Removed Pin From Net: NetName=+12V Pin=L3-2
+Removed Pin From Net: NetName=-12V Pin=L4-2
+Removed Pin From Net: NetName=+12V Pin=R11-2
+Removed Pin From Net: NetName=+12V Pin=R26-2
+Removed Pin From Net: NetName=+12V Pin=U1-1
+Removed Pin From Net: NetName=+12V Pin=U2-1
+Added Component: Designator=R94(RESC2914X05N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.farnell.com/datasheets/2052875.pdf?_ga=2.42747878.2129382359.1582535833-437978810.1505463394"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "ERA6AEB1071V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "RESC2012X60N"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power rating"; Value = "0.125 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "1k07"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier part number"; Value = "1810505"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "0.1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "SMD"; VariantName = "[No Variations]"
+Added Component: Designator=R95(RESC2914X05N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.elfa.se/Web/Downloads/_t/ds/ERA-series_eng_tds.pdf?pid=16021980"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "ERA6AEB362V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "RESC2012X60N"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power rating"; Value = "0.125 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "3k6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier1"; Value = "Elfa"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier part number"; Value = "160-21-980"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "0.1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "SMD"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=-12V Pin=FB3-1
+Added Pin To Net: NetName=+12V Pin=FB4-1
+Change Net Name : Old Net Name=+12V New Net Name=12Vm
+Change Net Name : Old Net Name=-12V New Net Name=-12Vm
+Added Pin To Net: NetName=+12V Pin=C5-1
+Added Pin To Net: NetName=+12V Pin=C15-2
+Added Pin To Net: NetName=+12V Pin=C23-1
+Added Pin To Net: NetName=+12V Pin=C24-2
+Added Pin To Net: NetName=+12V Pin=FB4-2
+Added Pin To Net: NetName=+12V Pin=L3-2
+Added Pin To Net: NetName=+12V Pin=R11-2
+Added Pin To Net: NetName=+12V Pin=R26-2
+Added Pin To Net: NetName=+12V Pin=U1-1
+Added Pin To Net: NetName=+12V Pin=U2-1
+Added Net: Name=+12V
+Added Pin To Net: NetName=-12V Pin=C25-1
+Added Pin To Net: NetName=-12V Pin=C26-2
+Added Pin To Net: NetName=-12V Pin=FB3-2
+Added Pin To Net: NetName=-12V Pin=L4-2
+Added Net: Name=-12V
+Added Pin To Net: NetName=NetR94_1 Pin=R94-1
+Added Pin To Net: NetName=NetR94_1 Pin=U13-1
+Added Net: Name=NetR94_1
+Added Pin To Net: NetName=NetR94_2 Pin=R94-2
+Added Pin To Net: NetName=NetR94_2 Pin=U13-8
+Added Net: Name=NetR94_2
+Added Pin To Net: NetName=NetR95_1 Pin=R95-1
+Added Pin To Net: NetName=NetR95_1 Pin=U14-1
+Added Net: Name=NetR95_1
+Added Pin To Net: NetName=NetR95_2 Pin=R95-2
+Added Pin To Net: NetName=NetR95_2 Pin=U14-8
+Added Net: Name=NetR95_2

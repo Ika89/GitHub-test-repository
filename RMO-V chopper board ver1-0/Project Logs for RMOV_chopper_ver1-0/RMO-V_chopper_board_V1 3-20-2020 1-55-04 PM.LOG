@@ -1,0 +1,12 @@
+Added Pin To Net: NetName=SCLK Pin=J5-11
+Added Pin To Net: NetName=KONVa Pin=J5-12
+Added Pin To Net: NetName=R_ADC Pin=J5-13
+Added Pin To Net: NetName=KONVb Pin=J5-14
+Added Pin To Net: NetName=Sync Pin=J5-15
+Added Pin To Net: NetName=KONVc Pin=J5-16
+Added Pin To Net: NetName=DIN Pin=J5-17
+Added Pin To Net: NetName=CSa Pin=J5-18
+Added Pin To Net: NetName=DOUT Pin=J5-19
+Added Pin To Net: NetName=CSb Pin=J5-20
+Added Pin To Net: NetName=CSc Pin=J5-22
+Added Net: Name=CSc

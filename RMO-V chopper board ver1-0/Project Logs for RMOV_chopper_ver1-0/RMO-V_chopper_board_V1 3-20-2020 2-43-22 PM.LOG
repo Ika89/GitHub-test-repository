@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=CSb Pin=R86-2
+Removed Pin From Net: NetName=CSb Pin=U12-4
+Added Pin To Net: NetName=CSc Pin=R86-2
+Added Pin To Net: NetName=CSc Pin=U12-4

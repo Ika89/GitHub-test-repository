@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=Shunt+ Pin=R39-U1
+Added Net: Name=Shunt+
+Added Pin To Net: NetName=Shunt- Pin=R39-U2
+Added Net: Name=Shunt-

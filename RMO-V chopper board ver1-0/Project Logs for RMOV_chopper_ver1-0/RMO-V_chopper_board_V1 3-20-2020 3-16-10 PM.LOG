@@ -1,0 +1,10 @@
+Added Component: Designator=J6(KONEKTOR-I-FASTON)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Type"; Value = "THT"; VariantName = "[No Variations]"
+Added Component: Designator=J7(KONEKTOR-I-FASTON)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Type"; Value = "THT"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=Vbat Pin=J6-1
+Added Pin To Net: NetName=Vbat Pin=J6-1
+Added Pin To Net: NetName=P_GND Pin=J7-1
+Added Pin To Net: NetName=P_GND Pin=J7-1

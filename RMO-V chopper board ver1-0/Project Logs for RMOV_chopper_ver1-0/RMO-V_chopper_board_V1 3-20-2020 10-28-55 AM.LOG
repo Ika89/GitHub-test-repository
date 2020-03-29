@@ -1,0 +1,88 @@
+Added Component: Designator=TP1(TESTPOINT_0.8X1.5)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = ".PCBChecked"; Value = "BP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = ".SCHChecked"; Value = "BP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=TP2(TESTPOINT_0.8X1.5)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = ".PCBChecked"; Value = "BP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = ".SCHChecked"; Value = "BP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=TP3(TESTPOINT_0.8X1.5)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = ".PCBChecked"; Value = "BP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = ".SCHChecked"; Value = "BP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=TP4(TESTPOINT_0.8X1.5)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = ".PCBChecked"; Value = "BP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = ".SCHChecked"; Value = "BP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=TP5(TESTPOINT_0.8X1.5)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = ".PCBChecked"; Value = "BP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = ".SCHChecked"; Value = "BP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=TP6(TESTPOINT_0.8X1.5)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = ".PCBChecked"; Value = "BP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = ".SCHChecked"; Value = "BP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=TP7(TESTPOINT_0.8X1.5)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = ".PCBChecked"; Value = "BP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = ".SCHChecked"; Value = "BP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=TP8(TESTPOINT_0.8X1.5)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = ".PCBChecked"; Value = "BP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = ".SCHChecked"; Value = "BP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=TP9(TESTPOINT_0.8X1.5)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = ".PCBChecked"; Value = "BP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = ".SCHChecked"; Value = "BP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=TP10(TESTPOINT_0.8X1.5)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = ".PCBChecked"; Value = "BP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = ".SCHChecked"; Value = "BP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=TP11(TESTPOINT_0.8X1.5)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = ".PCBChecked"; Value = "BP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = ".SCHChecked"; Value = "BP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC52_2 Pin=TP1-1
+Added Pin To Net: NetName=NetC56_2 Pin=TP2-1
+Added Pin To Net: NetName=NetC58_2 Pin=TP3-1
+Added Pin To Net: NetName=3.3Vm Pin=TP4-1
+Added Pin To Net: NetName=NetC61_2 Pin=TP5-1
+Added Pin To Net: NetName=5Vm Pin=TP6-1
+Added Pin To Net: NetName=-12Vm Pin=TP7-1
+Added Pin To Net: NetName=12Vm Pin=TP8-1
+Added Pin To Net: NetName=D_GND Pin=TP9-1
+Added Pin To Net: NetName=NetC76_2 Pin=TP10-1
+Added Pin To Net: NetName=NetC83_2 Pin=TP11-1

@@ -1,0 +1,60 @@
+Removed Pin From Net: NetName=GND Pin=U3--Vin
+Added Component: Designator=FB?(FB0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = ".PCBChecked"; Value = "BP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = ".SCHChecked"; Value = "BP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Ferrites"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.farnell.com/datasheets/2020787.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DCR"; Value = "0.35R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "FAIR-RITE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "2508056017Y0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "FBC2012X110N"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "10=0.0967, 100=0.028, 500=0.02, 1000=0.0171, 2000=0.015, 4000=0.0133, 20000=0.01, 40000=0.0098 (GBP)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "YES"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "44162"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "1651722"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "SMD"; VariantName = "[No Variations]"
+Added Component: Designator=FB?(FB0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = ".PCBChecked"; Value = "BP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = ".SCHChecked"; Value = "BP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Ferrites"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.farnell.com/datasheets/2020787.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DCR"; Value = "0.35R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "FAIR-RITE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "2508056017Y0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "FBC2012X110N"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "10=0.0967, 100=0.028, 500=0.02, 1000=0.0171, 2000=0.015, 4000=0.0133, 20000=0.01, 40000=0.0098 (GBP)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "YES"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "44162"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "1651722"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "SMD"; VariantName = "[No Variations]"
+Added Component: Designator=R65(RESC2914X05N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.yageo.com/documents/recent/PYu-RC_Group_51_RoHS_L_2.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0805FR-070RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "RESC2012X60N"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power rating"; Value = "0.125 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "0R00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier1"; Value = "Avnet abacus"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier part number"; Value = "RC0805FR-070RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "SMD"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3V3 Pin=FB?-2
+Added Pin To Net: NetName=5V Pin=FB?-2
+Added Pin To Net: NetName=P_GND Pin=R65-2
+Added Pin To Net: NetName=P_GND Pin=U3--Vin
+Added Pin To Net: NetName=3.3Vm Pin=FB?-1
+Added Net: Name=3.3Vm
+Added Pin To Net: NetName=5Vm Pin=FB?-1
+Added Net: Name=5Vm
+Added Pin To Net: NetName=M_GND Pin=R65-1
+Added Net: Name=M_GND

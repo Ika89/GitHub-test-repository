@@ -1,0 +1,16 @@
+Added Component: Designator=J5(CONN2X20_MOLEX)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.ciiva.com/14156/04315503-14156870.pdf?src-supplier=Distrelec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Gender"; Value = "Male"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Gold"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Housing Material"; Value = "Thermoplastic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Hsuan Mao Technology"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "C3510-40SPGB00R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1 = 1.11000, 50 = 0.87000, 100 = 0.64000 (EUR)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "2061"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Elfa"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "14315560"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "THT"; VariantName = "[No Variations]"

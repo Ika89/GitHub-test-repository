@@ -1,0 +1,23 @@
+Added Pin To Net: NetName=DIN Pin=U10-26
+Added Pin To Net: NetName=DIN Pin=U11-26
+Added Pin To Net: NetName=DIN Pin=U12-26
+Added Net: Name=DIN
+Added Pin To Net: NetName=DOUT Pin=U10-25
+Added Pin To Net: NetName=DOUT Pin=U11-25
+Added Pin To Net: NetName=DOUT Pin=U12-25
+Added Net: Name=DOUT
+Added Pin To Net: NetName=R_ADC Pin=U10-5
+Added Pin To Net: NetName=R_ADC Pin=U11-5
+Added Pin To Net: NetName=R_ADC Pin=U12-5
+Added Net: Name=R_ADC
+Added Pin To Net: NetName=SCLK Pin=R70-1
+Added Pin To Net: NetName=SCLK Pin=R75-1
+Added Pin To Net: NetName=SCLK Pin=R81-2
+Added Pin To Net: NetName=SCLK Pin=U10-1
+Added Pin To Net: NetName=SCLK Pin=U11-1
+Added Pin To Net: NetName=SCLK Pin=U12-1
+Added Net: Name=SCLK
+Added Pin To Net: NetName=Sync Pin=R74-1
+Added Pin To Net: NetName=Sync Pin=R79-1
+Added Pin To Net: NetName=Sync Pin=R88-1
+Added Net: Name=Sync

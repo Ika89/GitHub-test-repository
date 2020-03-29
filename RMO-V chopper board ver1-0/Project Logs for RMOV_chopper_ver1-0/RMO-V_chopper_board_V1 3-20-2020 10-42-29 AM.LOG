@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=PWM_a Pin=TP14-1
+Removed Pin From Net: NetName=HSa Pin=TP15-1
+Removed Pin From Net: NetName=G2 Pin=TP16-1
+Removed Pin From Net: NetName=G2 Pin=TP17-1
+Removed Pin From Net: NetName=G3 Pin=TP18-1
+Removed Pin From Net: NetName=G3 Pin=TP19-1
+Removed Pin From Net: NetName=PWMb Pin=TP20-1
+Removed Pin From Net: NetName=HSb Pin=TP21-1
+Removed Pin From Net: NetName=G4 Pin=TP22-1
+Added Pin To Net: NetName=G1 Pin=TP12-1
+Added Pin To Net: NetName=PWM_a Pin=TP13-1
+Added Pin To Net: NetName=HSa Pin=TP14-1
+Added Pin To Net: NetName=G2 Pin=TP15-1
+Added Pin To Net: NetName=G3 Pin=TP16-1
+Added Pin To Net: NetName=PWMb Pin=TP17-1
+Added Pin To Net: NetName=HSb Pin=TP18-1
+Added Pin To Net: NetName=G4 Pin=TP19-1

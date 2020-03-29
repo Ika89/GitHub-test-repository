@@ -1,0 +1,20 @@
+Added Component: Designator=U13(DFN254P510X140-4N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = "Oscilatior"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.farnell.com/datasheets/1497884.pdf?_ga=2.13871860.2129382359.1582535833-437978810.1505463394"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "TXC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "7C-4.000MBA-T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Supply Voltage"; Value = "5.5 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Nominal Frequency"; Value = "4MHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of pins"; Value = "4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-40 ~ 85 °C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Oscillator Output Compatibility"; Value = "CMOS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier part number"; Value = "1842040"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "SMD"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3.3Vm Pin=U13-1
+Added Pin To Net: NetName=D_GND Pin=U13-2
+Added Pin To Net: NetName=MCLK Pin=U13-3
+Added Pin To Net: NetName=3.3Vm Pin=U13-4
